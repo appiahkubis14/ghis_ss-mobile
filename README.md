@@ -34,9 +34,11 @@ A feature-rich Flutter mobile application designed for various functionalities t
 </div>
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://github.com/user-attachments/assets/e6fe714c-6e6c-4ed4-846d-6715b0f2576c" width="200"/>
-  <img src="https://github.com/user-attachments/assets/77ae9cde-39d0-44ba-94d3-37521abea379" width="200"/>
+  <img src="https://github.com/user-attachments/assets/3223b11a-e5ca-44c9-aa0b-502d47cb84aa" width="200" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/bf59ba27-11b0-48e7-8601-c4411aca38b2" width="200" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/97f1b968-da8f-4d55-98ca-8ef9bf1aede3" width="200" style="margin: 10px;"/>
 </div>
+
 
 
 
