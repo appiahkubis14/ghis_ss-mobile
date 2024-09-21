@@ -28,19 +28,16 @@ A feature-rich Flutter mobile application designed for various functionalities t
 ## App Screenshots
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://github.com/user-attachments/assets/f3923746-1514-4895-b626-eab1884d15c3" width="200"/>
-  <img src="https://github.com/user-attachments/assets/28057352-3ea4-4d4b-9979-b9af5b7d35de" width="200"/>
-  <img src="https://github.com/user-attachments/assets/1ab041a0-b73e-4968-8294-5b6dd85161e3" width="200"/>
+  <img src="https://github.com/user-attachments/assets/70b25475-2e39-4b88-be6d-7d1dce01bd08" width="200" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/2e6ef3d9-1078-435a-bf65-cd5a3d3aae56" width="200" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/3ee7f173-3fee-4e7b-ade0-3222726a7713" width="200" style="margin: 10px;"/>
 </div>
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://github.com/user-attachments/assets/3223b11a-e5ca-44c9-aa0b-502d47cb84aa" width="200"/>
-  <img src="https://github.com/user-attachments/assets/bf59ba27-11b0-48e7-8601-c4411aca38b2" width="200"/>
-  <img src="https://github.com/user-attachments/assets/97f1b968-da8f-4d55-98ca-8ef9bf1aede3" width="200"/>
-</div>
-
-
-
+  <img src="https://github.com/user-attachments/assets/46f92329-8718-42e9-baec-a16afc92651c" width="200" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/acb3c9b2-e3b4-4764-be01-8d93f161c246" width="200" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/11059be3-e28d-4f16-9de3-35a170196fa4" width="200" style="margin: 10px;"/>
+<div/>
 
 ## Getting Started
 
