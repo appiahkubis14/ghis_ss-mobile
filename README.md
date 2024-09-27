@@ -21,9 +21,7 @@ A feature-rich Flutter mobile application designed for various functionalities t
 - **Flutter**: The core framework for building cross-platform native apps with a single codebase.
 - **Dart**: Programming language used for developing the Flutter application.
 - **Firebase**: Backend-as-a-service used for authentication, database, and push notifications.
-- **SQLite**: Used for local data storage with offline capabilities.
 - **REST APIs**: For communication with the backend server and integration with third-party services.
-- **GraphQL**: To fetch and manage complex data more efficiently.
 
 ## App Screenshots
 
